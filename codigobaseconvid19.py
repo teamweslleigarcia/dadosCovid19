@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-import plotly_express as px
+import plotly.express as px
 import streamlit as st
 
 #LENDO O DATASET
